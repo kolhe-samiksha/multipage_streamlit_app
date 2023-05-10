@@ -1,0 +1,6 @@
+attribution_model,channel,attribution_percent
+markov_chain,Search Engine Marketing,0.22
+markov_chain,Google Display Network,0.13
+markov_chain,Email,0.02
+markov_chain,Affiliates,0.37
+markov_chain,Social Network,0.25

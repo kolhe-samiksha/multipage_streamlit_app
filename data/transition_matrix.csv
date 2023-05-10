@@ -1,0 +1,41 @@
+start_state,end_state,transition_probability
+Search Engine Marketing,Social Network,0.1641491153260717
+Google Display Network,Social Network,0.16453641821706158
+Email,Social Network,0.16773080664808168
+Affiliates,Social Network,0.16119905754638722
+Start,Social Network,0.201718
+Social Network,Social Network,0.16059770124008416
+Search Engine Marketing,Search Engine Marketing,0.23987132015588397
+Google Display Network,Search Engine Marketing,0.23916565793269295
+Email,Search Engine Marketing,0.24062916424816672
+Affiliates,Search Engine Marketing,0.2345638766753332
+Start,Search Engine Marketing,0.29888
+Social Network,Search Engine Marketing,0.23407401857069898
+Search Engine Marketing,Null,0.17404164822471474
+Google Display Network,Null,0.1742283522094644
+Email,Null,0.1743772532925663
+Affiliates,Null,0.1709681352086994
+Social Network,Null,0.1703681210230645
+Search Engine Marketing,Google Display Network,0.11953893320954735
+Google Display Network,Google Display Network,0.12027433969487257
+Email,Google Display Network,0.12203955167142191
+Affiliates,Google Display Network,0.11796174528839451
+Start,Google Display Network,0.149056
+Social Network,Google Display Network,0.1168408121575177
+Search Engine Marketing,Email,0.03904251184782961
+Google Display Network,Email,0.039506425792676186
+Email,Email,0.04052452154576892
+Affiliates,Email,0.03905113261403662
+Start,Email,0.049328
+Social Network,Email,0.0387346369761586
+Search Engine Marketing,Conversion,0.018681247503589432
+Google Display Network,Conversion,0.019329949019618417
+Email,Conversion,0.005943378487749446
+Affiliates,Conversion,0.035800515752173925
+Social Network,Conversion,0.041197453183816006
+Search Engine Marketing,Affiliates,0.2446752237323632
+Google Display Network,Affiliates,0.2429588571336139
+Email,Affiliates,0.24875532410624504
+Affiliates,Affiliates,0.2404555369149751
+Start,Affiliates,0.301018
+Social Network,Affiliates,0.23818725684866004

@@ -1,0 +1,11 @@
+attribution_model,channel,attribution_percent
+first_touch,Email,0.05
+first_touch,Social Network,0.21
+first_touch,Google Display Network,0.15
+first_touch,Search Engine Marketing,0.29
+first_touch,Affiliates,0.31
+last_touch,Search Engine Marketing,0.2
+last_touch,Social Network,0.3
+last_touch,Affiliates,0.39
+last_touch,Google Display Network,0.1
+last_touch,Email,0.01
